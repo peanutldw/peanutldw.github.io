@@ -19,5 +19,5 @@ I am a Master's graduate from Xiamen University of Technology and serve as the A
 ## Patents
 
 1. **一种 Text-to-SQL 智能体协同系统及方法**  
-   发明专利（中国）  
-   专利号：**202511244851.5**
+   Chinese Invention Patent  
+   Patent No.: **202511244851.5**
