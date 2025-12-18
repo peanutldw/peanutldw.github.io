@@ -13,7 +13,7 @@ I am a Master's graduate from Xiamen University of Technology and serve as the A
 My current work focuses on **applied, industry-oriented research on ChatBI and Agent-based applications**.
 
 **Profiles**:  
-[ModelScope]([https://www.modelscope.cn/profile/XMUTldw])
+ModelScope: https://www.modelscope.cn/profile/XMUTldw
 
 ### Publications
 
