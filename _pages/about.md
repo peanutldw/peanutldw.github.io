@@ -12,11 +12,6 @@ I am a Master's graduate from Xiamen University of Technology and serve as the A
 
 My current work focuses on **applied, industry-oriented research on ChatBI and Agent-based applications**.
 
-### Profiles
-
-1. ModelScope: https://www.modelscope.cn/profile/XMUTldw 
-2. tiktok (China): 37986686516 
-
 ### Publications
 
 1. **Dingwei Liu**, Yan Wang, Yuxuan Tian, et al.  
@@ -35,4 +30,7 @@ My current work focuses on **applied, industry-oriented research on ChatBI and A
 2. **National Third Prize**, National College Students Mathematics Competition (China), 2022  
    全国大学生数学竞赛 国家三等奖
 
+### Profiles
 
+1. ModelScope: https://www.modelscope.cn/profile/XMUTldw 
+2. tiktok (China): 37986686516
