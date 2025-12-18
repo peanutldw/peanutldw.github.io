@@ -23,7 +23,7 @@ repository               : "peanutldw/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/profile.png"
+  avatar           : "profile.png"
   name             : "Dingwei Liu"
   pronouns         : # example: "she/her"  
   bio              : "A researcher interested in AI"
