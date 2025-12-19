@@ -8,9 +8,9 @@ redirect_from:
 ---
 
 
-I am a Master's graduate from Xiamen University of Technology and serve as the AI Leader at Deepsense (Xiamen) Data Technology Co., Ltd. My research interests encompass Large Language Models (LLMs), Text-to-SQL, Agent Systems, Data Analysis, and Deep Learning.
+  I am a Master's graduate from Xiamen University of Technology and serve as the AI Leader at Deepsense (Xiamen) Data Technology Co., Ltd. My research interests encompass Large Language Models (LLMs), Text-to-SQL, Agent Systems, Data Analysis, and Deep Learning.
 
-My current work focuses on **applied, industry-oriented research on ChatBI and Agent-based applications**.
+  My current work focuses on **applied, industry-oriented research on ChatBI and Agent-based applications**.
 
 ### Publications
 
