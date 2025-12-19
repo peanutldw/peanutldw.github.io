@@ -33,4 +33,4 @@ redirect_from:
 ### Profiles
 
 1. ModelScope: https://www.modelscope.cn/profile/XMUTldw 
-2. tiktok (China): 37986686516
+2. Tiktok (China): 37986686516
